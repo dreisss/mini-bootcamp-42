@@ -65,8 +65,6 @@ Além das listas em `C` e `Shell`, algumas outras habilidades serão trabalhadas
 durante o bootcamp, tal como: `Git` e `Github`, `Linux (linha de comando)`,
 `editores de código`, `lógica de programação` e mais.
 
-<br/>
-
 ## A École 42
 
 A École 42 é uma escola de software de origem francesa, com uma metodologia de
