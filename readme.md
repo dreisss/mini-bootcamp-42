@@ -37,7 +37,7 @@ São Paulo, para uma versão em português.
 ## Mini Bootcamp 42: Visão geral
 
 O Mini Bootcamp 42 é uma iniciativa de alunos de programação que acreditam no
-poder da metodologia inovadora da 42. É um projeto inpirado pela
+poder da metodologia inovadora da 42. É um projeto inspirado pela
 "[Piscina"](https://42.fr/en/admissions/42-piscine/)", processo seletivo da 42.
 
 Será um bootcamp de duas semanas, em que os participantes solucionarão listas de
@@ -50,8 +50,8 @@ solução contará para o [Ranking de Pontuações](./docs/ranking.md), a cada d
 os participantes no top 3 ganharão recompensas.
 
 Ao finalizar uma lista o participante deve submeter as soluções para a
-[Correção](./docs/evaluation.md), em que um sistema automático corrijirá, além
-disso, outro participante disponível corrijirá em conjunto daquele que finalizou
+[Correção](./docs/evaluation.md), em que um sistema automático corrigirá, além
+disso, outro participante disponível corrigirá em conjunto daquele que finalizou
 a lista. Se o participante conseguir certo aproveitamento ou atingir o limite de
 tentativas ele pode seguir para a próxima lista.
 
