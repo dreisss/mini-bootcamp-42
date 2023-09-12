@@ -11,7 +11,8 @@ disposição para resolver problemas e colaborar com os outros participantes.
 
 Quer saber mais sobre? Veja a sessão [Mini Bootcamp 42: Visão geral](#mini-bootcamp-42-visão-geral).
 
-Para se inscrever leia atentamente e responda o forms: [TODO](#).
+Para se inscrever leia atentamente e responda o forms:
+[Inscrição Mini Bootcamp 42](https://forms.gle/mD7XHRmcDvy8U1jk6).
 
 ## A École 42
 
