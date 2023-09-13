@@ -44,4 +44,21 @@ que conseguiu.
 
 ### Submissão
 
-Work in progress...
+Para fazer a submissão das soluções é necessário que os participantes criem um
+repositório no Github para armazenar as soluções (não importando o nome). Cada
+solução deve ser separada da seguinte maneira:
+
+- Um diretório para cada lista resolvida: `shell00`, `c01`, ...
+- Dentro do diretório da lista crie diretórios com os exercícios: `ex00`, `ex01`, ...
+
+Note que os nomes devem seguir esse padrão, caso contrário o sistema não localizará
+as soluções e o participante não pontuará.
+
+Além disso, é necessário que o participante crie uma issue no repositório do
+evento com a label `solutions`. O título da issue deve seguir o seguinte padrão:
+solutions: \[Nome do Participante\]; e na descrição deve estar o link para o
+repositório com as soluções.
+
+Ao finalizar uma lista, o participante deve comentar na issue criada a lista
+que concluiu (`shell00`, `shell01`, `c00`, ...), após isso o resultado da correção
+do sistema será publicada na mesma issue.
