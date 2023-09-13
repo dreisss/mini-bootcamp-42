@@ -1,14 +1,15 @@
 # Listas de Exercícios
 
 As listas de exercícios são listas com diversos problemas para serem resolvidos
-utilizando `C` ou `Shell`. Para resolver a lista é permitidu utilizar quaisquer
+utilizando `C` ou `Shell`. Para resolver a lista é permitido utilizar quaisquer
 recursos. É permitido utilizar o Google, ChatGPT, etc., além de pedir ajuda dos
 seus pares.
 
 ### Pontuação
 
-Cada exercício nas listas conta ponto para o participante de acordo com o
-seguinte esquema:
+A pontuação atribuída a cada exercício nas listas é baseada em seu número na
+lista. Cada exercício vale um ponto, mais um ponto adicional para cada número
+subsequente. Veja o exemplo abaixo:
 
 | Exercício | Pontos |
 | :-------: | :----: |
@@ -17,11 +18,12 @@ seguinte esquema:
 |    ...    |        |
 |     x     | x + 1  |
 
-Ou seja, o ponto de um exercício é o seu número na lista mais um.
+Isso significa que o primeiro exercício vale 1 ponto, o segundo vale 2 pontos,
+o terceiro vale 3 pontos e assim por diante.
 
-É importante resaltar que contarão pontos somente os exercícios corretos até a
-primeira solução errada da lista, todos os exercícios, mesmo os corretos, serão
-desconsiderados se algum exercício anterior estiver errado. Veja o exemplo:
+É importante observar que apenas os exercícios corretos até a primeira solução
+incorreta da lista serão pontuados. Se um exercício anterior estiver incorreto,
+todos os exercícios, mesmo os corretos, serão desconsiderados. Veja o exemplo:
 
 | Exercício | Pontos | Está correto? | Contará no total? |
 | :-------: | :----: | :-----------: | :---------------: |
@@ -33,10 +35,10 @@ desconsiderados se algum exercício anterior estiver errado. Veja o exemplo:
 |     5     |   6    |      Não      |        Não        |
 |     6     |   7    |      Sim      |        Não        |
 
-Assim, a pontuação total será: 1 + 2 + 3 + 4 = 10.
+Neste exemplo, a pontuação total será 1 + 2 + 3 + 4 = 10.
 
-Caso o participante consiga acerta todos os exercícios da lista ele ganhará 5
-pontos bonus.
+Além disso, se um participante conseguir resolver todos os exercícios da lista
+corretamente, ele receberá um bônus de 5 pontos.
 
 Todos participantes terão 3 tentativas para conseguir o máximo de pontos de cada
 lista. Caso não consiga ele avançará para a próxima lista com a maior pontuação
@@ -48,8 +50,26 @@ Para fazer a submissão das soluções é necessário que os participantes criem
 repositório no Github para armazenar as soluções (não importando o nome). Cada
 solução deve ser separada da seguinte maneira:
 
-- Um diretório para cada lista resolvida: `shell00`, `c01`, ...
-- Dentro do diretório da lista crie diretórios com os exercícios: `ex00`, `ex01`, ...
+- Um diretório para cada lista resolvida, por exemplo: `shell00`, `c01`, ...
+- Dentro do diretório da lista crie diretórios com os exercícios, por exemplo:
+  `ex00`, `ex01`, ...
+
+Assim, teremos o seguinte esquema de pastas:
+
+```
+.
+├── shell00
+│  ├── ex00
+│  ├── ex01
+│  ├── ex02
+│  └── ...
+├── c00
+│  ├── ex00
+│  ├── ex01
+│  ├── ex02
+│  └── ...
+└── ...
+```
 
 Note que os nomes devem seguir esse padrão, caso contrário o sistema não localizará
 as soluções e o participante não pontuará.
