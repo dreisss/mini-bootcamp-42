@@ -82,3 +82,6 @@ repositório com as soluções.
 Ao finalizar uma lista, o participante deve comentar na issue criada a lista
 que concluiu (`shell00`, `shell01`, `c00`, ...), após isso o resultado da correção
 do sistema será publicada na mesma issue.
+
+Cada participante pode tentar submeter a mesma lista até 3 vezes. Se houver mais
+de 3 tentativas, apenas as 3 primeiras serão consideradas.

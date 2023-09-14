@@ -6,82 +6,87 @@ O Mini Bootcamp 42 será um `bootcamp de programação com duração de duas sem
 em que os participantes serão imersos na metodologia da École 42 (veja mais sobre
 na seção [A École 42](#a-école-42)). Ao longo deste período, serão fornecidas
 listas de exercícios para que os participantes possam solucionar em colaboração,
-além dos `rushes`, os "trabalhos em equipe" nos finais de semana.
+além dos `rushes`, que são os "trabalhos em equipe" realizados nos finais de semana.
 
-Para participar **NÃO** é necessário nenhum conhecimento em programação, apenas
+Para participar, **NÃO** é necessário nenhum conhecimento em programação, apenas
 disposição para resolver problemas e colaborar com os outros participantes.
 
-Para se inscrever leia atentamente e responda o forms:
+Para se inscrever leia atentamente e responda ao formulário:
 [Inscrição Mini Bootcamp 42](https://forms.gle/mD7XHRmcDvy8U1jk6).
 
-Tem alguma dúvida? Visite o [FAQ](./docs/faq.md).
+Tem alguma dúvida? Visite o [FAQ](./docs/faq.md) ou pergunte no
+[WhatsApp](https://wa.me/93984055714).
 
 ## Visão geral
 
-O Mini Bootcamp 42 é uma iniciativa de alunos de programação que acreditam no
-poder da metodologia inovadora da 42. É um projeto inspirado pela
-"[Piscina](https://42.fr/en/admissions/42-piscine/)", processo seletivo da 42.
+O Mini Bootcamp 42 é uma iniciativa de estudantes de programação que acreditam
+no poder da metodologia inovadora da 42. É um projeto inspirado pela
+"[Piscina](https://42.fr/en/admissions/42-piscine/)", o processo seletivo da 42.
 
-Será um bootcamp de duas semanas, em que os participantes solucionarão listas de
-exercícios e colaborarão para avançar. Será uma "versão minificada" da piscina
-da 42, colocando em prática os seus princípios e métodos.
+Será um bootcamp de duas semanas, no qual os participantes resolverão listas de
+exercícios e colaborarão para avançar. Trata-se de uma "versão compacta" da
+piscina da 42, na qual serão aplicados seus princípios e métodos.
 
-A cada dia serão liberadas [Listas de Exercícios](./docs/lists.md) para serem
-resolvidos em `C` ou `Shell`. As listas são organizadas por dificuldade e cada
-solução contará para o [Ranking de Pontuações](./docs/ranking.md), a cada dia
-os participantes no top 3 ganharão recompensas.
+A cada dia, serão disponibilizadas [Listas de Exercícios](./docs/lists.md) para
+serem resolvidas em `C` ou `Shell`. As listas são organizadas por dificuldade,
+e cada solução contribuirá para o [Ranking de Pontuações](./docs/ranking.md).
+Todos os dias, o participante em primeiro lugar no ranking ganhará uma recompensa.
 
-Ao finalizar uma lista o participante deve submeter as soluções para a
-[Correção](./docs/evaluation.md), em que um sistema automático corrigirá, além
-disso, outro participante disponível corrigirá em conjunto daquele que finalizou
-a lista. Se o participante conseguir certo aproveitamento ou atingir o limite de
-tentativas ele pode seguir para a próxima lista.
+Ao concluir uma lista, o participante deve submeter as soluções para a
+[Correção](./docs/evaluation.md), na qual um sistema automático fará a correção.
+Além disso, outro participante disponível fará uma correção conjunta com aquele
+que concluiu a lista. Se o participante obtiver um desempenho adequado ou atingir
+o limite de tentativas, poderá prosseguir para a próxima lista.
 
-Nas sexta-feiras serão sorteadas as equipes para os [Rushes](./docs/rushes.md)
-nos finais de semana, cada equipe deverá solucionar os desafios durante esses
-dois dias e deverão submeter para um avaliador pontuar.
+Nas sextas-feiras, as equipes para os [Rushes](./docs/rushes.md) nos fins de
+semana serão sorteadas. Cada equipe deverá resolver os desafios durante esses
+dois dias e submetê-los para avaliação e pontuação.
 
-Para entender mais da filosofia da École 42 é recomendado que você assista o
+Ao final do bootcamp, os três primeiros participantes no ranking de pontuações
+receberão recompensas, que são, respectivamente, 100, 50 e 25 reais.
+
+Para entender melhor a filosofia da École 42, é recomendado que você assista ao
 seguinte vídeo:
-[Guia DEFINITIVO de Aprendendo a Aprender | A maior BRONCA da sua vida \[RATED R\]](https://youtu.be/oUPaJxk6TZ0?si=PA-Cs7QMaL74Pork)
+[Guia DEFINITIVO de Aprendendo a Aprender | A maior BRONCA da sua vida \[RATED R\]](https://youtu.be/oUPaJxk6TZ0?si=PA-Cs7QMaL74Pork).
 
 ### Local, Datas e Horários
 
 O bootcamp ocorrerá presencialmente no **Laboratório de Informática III do Iespes**
 durante os dias **2 a 15 de outubro**. O laboratório estará disponível para os
-alunos no período das **14 às 18h**. Entretanto, o horário será flexível, os
-participantes podem ir e vir o horário que quiserem (dentro do horário disponível).
+alunos no período das **14h às 18h**. Entretanto, o horário será flexível, os
+participantes podem ir e vir no horário que desejarem (dentro do horário disponível).
 
-Não é necessário que o participante esteja presencialmente para resolver os
-desafios e submeter as respostas, porém, quanto mais tempo presencialmente,
-mais eficaz será a aprendizagem.
+Não é necessário que o participante esteja presente fisicamente para resolver
+os desafios e submeter as respostas, porém, quanto mais tempo passarem
+presencialmente, mais eficaz será a aprendizagem.
 
 ### O que será aprendido?
 
-O foco do bootcamp é trabalhar as habilidades de `resolução de problemas` e
-`trabalho em equipe`, para isso utilizaremos as listas de exercícios.
+O foco do bootcamp é desenvolver habilidades de `resolução de problemas` e
+`trabalho em equipe`, para isso utilizaremos listas de exercícios.
 
-Além das listas em `C` e `Shell`, algumas outras habilidades serão trabalhadas
-durante o bootcamp, tal como: `Git` e `Github`, `Linux (linha de comando)`,
-`editores de código`, `lógica de programação` e mais.
+Além das listas em `C` e `Shell`, algumas outras habilidades serão abordadas
+durante o bootcamp, como: `Git` e `GitHub`, `Linux (linha de comando)`,
+`editores de código`, `lógica de programação` e muito mais.
 
 ## A École 42
 
-A École 42 é uma escola de software de origem francesa, com uma metodologia de
-ensino inovadora focada nos seguintes pilares:
+A École 42 é uma escola de software de origem francesa com uma metodologia de
+ensino inovadora, focada nos seguintes pilares:
 
-|                                          |                                                                                                                                                             |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **No courses. No teachers. No classes.** | Na 42 não existem aulas e professores tradicionais, os estudantes encontram suas próprias soluções, promovendo colaboração e compartilhamento.              |
-| **A project method**                     | A resolução de problemas é uma habilidade importante e o currículo é 100% prático, incentivando a superação pessoal e colaboração em projetos.              |
-| **Failing is progressing**               | Errar faz parte do processo. O caminho de sucesso é o seguinte: teste um programa, entenda os erros, corrija-os e siga em frente!                           |
-| **Peer-to-peer learning**                | Você precisa encontrar a resposta por si só ou pedir ajuda. A pesquisa, a experimentação e a sua habilidade de resolução de problemas são importantíssimas. |
-| **Peer-to-peer evaluation**              | A avaliação é contínua e todos devem se avaliar. A avaliação promove o diálogo e alternativas, não há uma resposta única ou modelo a seguir.                |
-| **Group work is not cheating**           | Trabalhar em grupo, compartilhar diferentes perspectivas e a resolução de problemas juntos são aspectos importantes no processo de aprendizagem.            |
-| **Gamification**                         | A utilização de elementos de jogos, como pontos e níveis de habilidade, torna a aprendizagem mais motivadora, interessante e divertida.                     |
+|                                             |                                                                                                                                                                        |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sem cursos. Sem professores. Sem aulas.** | Na 42, não existem aulas nem professores tradicionais. Os estudantes encontram suas próprias soluções, promovendo a colaboração e o compartilhamento.                  |
+| **Método baseado em projetos**              | A resolução de problemas é uma habilidade importante, e o currículo é 100% prático, incentivando o crescimento pessoal e a colaboração em projetos.                    |
+| **Errar é progredir**                       | Errar faz parte do processo. O caminho para o sucesso é o seguinte: teste um programa, compreenda os erros, corrija-os e siga em frente!                               |
+| **Aprendizado entre pares**                 | Você precisa encontrar a resposta por si mesmo ou pedir ajuda. A pesquisa, a experimentação e suas habilidades de resolução de problemas são extremamente importantes. |
+| **Avaliação entre pares**                   | A avaliação é contínua, e todos devem se avaliar mutuamente. Ela promove o diálogo e alternativas, não há uma única resposta ou modelo a seguir.                       |
+| **Trabalhar em grupo não é trapaça**        | Trabalhar em grupo, compartilhar diferentes perspectivas e resolver problemas juntos são aspectos essenciais do processo de aprendizagem.                              |
+| **Gamificação**                             | A utilização de elementos de jogos, como pontos e níveis de habilidade, torna a aprendizagem mais motivadora, interessante e divertida.                                |
 
-Caso tenha interesse em saber mais sobre a École 42 acesse o site [aqui](https://42.fr),
-ou assista os vídeos da playlist sobre a escola: [École 42](https://youtube.com/playlist?list=PLA2Ge9OXtzi5Vysn3DDEQg2YA-UhRNjUx&si=-sDXRo4NRyMYC75Y).
+Se você tem interesse em saber mais sobre a École 42, acesse o site
+[aqui](https://42.fr) ou assista aos vídeos da playlist sobre a escola:
+[École 42](https://youtube.com/playlist?list=PLA2Ge9OXtzi5Vysn3DDEQg2YA-UhRNjUx&si=-sDXRo4NRyMYC75Y).
 
 Visite também o site da [42sp](https://www.42sp.org.br), filial da École 42 em
-São Paulo, para uma versão em português.
+São Paulo, para obter uma versão em português.
