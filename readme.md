@@ -69,6 +69,20 @@ Além das listas em `C` e `Shell`, algumas outras habilidades serão abordadas
 durante o bootcamp, como: `Git` e `GitHub`, `Linux (linha de comando)`,
 `editores de código`, `lógica de programação` e muito mais.
 
+### Documentação
+
+Para saber mais detalhes sobre o funcionamento do Mini Bootcamp 42 consulte a
+documentação:
+
+- [Lista de Exercícios](./docs/lists.md)
+- [Correção](./docs/evaluation.md)
+- [Rushes](./docs/rushes.md)
+- [Pontuação](./docs/points.md)
+- [Ranking de Pontuações](./docs/ranking.md)
+- [FAQ](./docs/faq.md)
+
+Ou entre em contato pelo [WhatsApp](https://wa.me/93984055714).
+
 ## A École 42
 
 A École 42 é uma escola de software de origem francesa com uma metodologia de

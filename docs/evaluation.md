@@ -1,30 +1,32 @@
 # Correção
 
 A etapa de correção é uma parte crucial do Mini Bootcamp 42, na qual as soluções
-submetidas pelos participantes são avaliadas e pontuadas.
+submetidas pelos participantes são avaliadas e pontuadas. Nessa etapa os participantes
+tem a oportunidade de rever seus erros e se aperfeiçoar.
 
-## Avaliação de Soluções
+## Avaliação
 
 As soluções submetidas pelos participantes serão avaliadas de duas maneiras:
 
-1. **Correção Automática**: Um sistema automático fará a correção inicial das
-   soluções submetidas. Esse sistema verifica a conformidade com os requisitos
-   técnicos e as respostas corretas. A pontuação dada pelo sistema é explicada
-   em detalhes na página [Lista de Exercícios](./lists).
+### Avaliação pelo Sistema
 
-2. **Correção entre Pares**: Além da correção automática, outro participante
-   disponível fará uma correção conjunta com aquele que concluiu a lista. Para
-   a avaliação entre pares, os seguintes critérios serão levados em consideração
-   para cada exercício em uma lista:
+A avaliação pelo sistema será feito por um sistema automático que corrigirá somente
+o funcionamento do código, se ele dá as respostas esperadas de acordo com o exercício.
+O esquema de pontuações para essa avaliação está especificado na página
+[Lista de Exercícios](./lists.md).
 
-   - Funcionabilidade (3 pts): Verificação se o código funciona como esperado.
-   - Legibilidade (3 pts): Análise da clareza e facilidade de leitura e entendimento
-     do código.
-   - Domínio do conhecimento (4 pts): Verificação se o participante demonstra
-     domínio do conhecimento, tanto na explicação quanto na compreensão do código.
+### Avaliação entre Pares
 
-O participante que realizar a correção da lista de outro participante receberá
-um bônus de 10 pontos.
+Além da avaliação automática, a lista deve ser corrigida por outro participante
+disponível. Nessa etapa o participante será avaliado seguindo os seguintes critérios:
+
+- Funcionameto do Código: Se o código funciona de acordo com os requerimentos de cada exercício
+- Clareza e Facilidade de Entendimento do Código: Se o código é de fácil leitura e entendimento
+- Domínio do Assunto: Se o participante demonstra entender sua solução
+
+O participante avaliador deve verificar esses critérios para cada exercício na
+lista e deve dar os resultados para o avaliador pontuar. Além disso, o participante
+avaliador receberá 10 pontos por avaliar.
 
 ## Resultados das Correções
 

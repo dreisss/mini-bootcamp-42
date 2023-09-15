@@ -5,7 +5,7 @@ utilizando `C` ou `Shell`. Para resolver a lista é permitido utilizar quaisquer
 recursos. É permitido utilizar o Google, ChatGPT, etc., além de pedir ajuda dos
 seus pares.
 
-### Submissão
+## Submissão
 
 Para fazer a submissão das soluções é necessário que os participantes criem um
 repositório no Github para armazenar as soluções (não importando o nome). Cada
@@ -49,7 +49,7 @@ em pares, cujo resultado também será publicado na mesma issue criada anteriorm
 Cada participante pode tentar submeter a mesma lista até 3 vezes. Se houver mais
 de 3 tentativas, apenas as 3 primeiras serão consideradas.
 
-### Pontuação
+## Pontuação
 
 A pontuação atribuída a cada exercício nas listas é baseada em seu número na
 lista. Cada exercício vale um ponto, mais um ponto adicional para cada número
@@ -87,3 +87,6 @@ corretamente, ele receberá um bônus de 10 pontos.
 Todos participantes terão 3 tentativas para conseguir o máximo de pontos de cada
 lista. Caso não consiga ele avançará para a próxima lista com a maior pontuação
 que conseguiu.
+
+Atenção: Um participante que avançou para a próxima lista não pode submeter uma
+lista anterior.
