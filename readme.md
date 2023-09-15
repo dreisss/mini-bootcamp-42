@@ -3,10 +3,11 @@
 ![Banner do Mini Bootcamp 42.](./.github/assets/banner.png)
 
 O Mini Bootcamp 42 será um `bootcamp de programação com duração de duas semanas`
-em que os participantes serão imersos na metodologia da École 42 (veja mais sobre
-na seção [A École 42](#a-école-42)). Ao longo deste período, serão fornecidas
-listas de exercícios para que os participantes possam solucionar em colaboração,
-além dos `rushes`, que são os "trabalhos em equipe" realizados nos finais de semana.
+em que os participantes serão imersos na metodologia da École 42, uma escola de
+software inovadora de origem francesa (veja mais sobre na seção [A École 42](#a-école-42)).
+Durante esse período, os participantes solucionarão listas de exercícios em
+colaboração, além dos `rushes`, que são projetos mais desafiantes para serem
+resolvidos em equipe nos finais de semanas.
 
 Para participar, **NÃO** é necessário nenhum conhecimento em programação, apenas
 disposição para resolver problemas e colaborar com os outros participantes.
@@ -14,7 +15,7 @@ disposição para resolver problemas e colaborar com os outros participantes.
 Para se inscrever leia atentamente e responda ao formulário:
 [Inscrição Mini Bootcamp 42](https://forms.gle/mD7XHRmcDvy8U1jk6).
 
-Tem alguma dúvida? Visite o [FAQ](./docs/faq.md) ou pergunte no
+Tem alguma dúvida? Consulte o [FAQ](./docs/faq.md) ou entre em contato pelo
 [WhatsApp](https://wa.me/93984055714).
 
 ## Visão geral
@@ -22,7 +23,6 @@ Tem alguma dúvida? Visite o [FAQ](./docs/faq.md) ou pergunte no
 O Mini Bootcamp 42 é uma iniciativa de estudantes de programação que acreditam
 no poder da metodologia inovadora da 42. É um projeto inspirado pela
 "[Piscina](https://42.fr/en/admissions/42-piscine/)", o processo seletivo da 42.
-
 Será um bootcamp de duas semanas, no qual os participantes resolverão listas de
 exercícios e colaborarão para avançar. Trata-se de uma "versão compacta" da
 piscina da 42, na qual serão aplicados seus princípios e métodos.
@@ -30,7 +30,7 @@ piscina da 42, na qual serão aplicados seus princípios e métodos.
 A cada dia, serão disponibilizadas [Listas de Exercícios](./docs/lists.md) para
 serem resolvidas em `C` ou `Shell`. As listas são organizadas por dificuldade,
 e cada solução contribuirá para o [Ranking de Pontuações](./docs/ranking.md).
-Todos os dias, o participante em primeiro lugar no ranking ganhará uma recompensa.
+Todos os dias, o participante em primeiro lugar no ranking diário será recompensado.
 
 Ao concluir uma lista, o participante deve submeter as soluções para a
 [Correção](./docs/evaluation.md), na qual um sistema automático fará a correção.
