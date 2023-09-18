@@ -1,62 +1,33 @@
 # Pontuações
 
-As pontuações no Mini Bootcamp 42 são usadas para acompanhar o progresso dos
-participantes e recompensar seu desempenho. Esta página descreve como as pontuações
-são atribuídas e como os participantes podem ganhar pontos.
+As pontuações no Mini Bootcamp 42 têm a finalidade de acompanhar o progresso dos
+participantes e recompensar o desempenho deles.
 
 ## Atribuição de Pontuações
 
-As pontuações são atribuídas com base na resolução de exercícios nas listas de
-exercícios e na participação nos Rushes. Há duas maneiras principais de ganhar
-pontos:
+Os pontos podem ser obtidos de diversas maneiras ao longo do bootcamp:
 
-### Listas de Exercícios
+- Exercícios: Resolver os exercícios das listas acumula pontos, como explicado na página [Listas de Exercícios](./lists.md).
+- Rushes: A participação nos rushes também proporcionará a obtenção de pontos, conforme detalhado na página [Rushes](./rushes.md).
+- Avaliação entre Pares: Atuar como avaliador também garante 10 pontos de bônus aos participantes.
+- Destaque: Ao final de cada dia, os participantes presentes escolherão outro participante como destaque, que receberá 10 pontos de bônus.
 
-As listas de exercícios são compostas por uma série de exercícios, cada um com
-um valor de pontuação associado. A pontuação para cada exercício é calculada da
-seguinte forma:
+**Observação:** Os participantes em destaque são aqueles que, de alguma forma,
+auxiliaram os outros na resolução dos exercícios. A escolha é totalmente livre
+para cada participante, e eles também têm a opção de não atribuir pontos a ninguém.
 
-- O primeiro exercício em uma lista vale 1 ponto.
-- Cada exercício subsequente em uma lista vale 1 ponto adicional em relação ao
-  exercício anterior.
-
-Por exemplo, se uma lista contiver 5 exercícios, o primeiro valerá 1 ponto, o
-segundo valerá 2 pontos, o terceiro valerá 3 pontos e assim por diante.
-
-É importante observar que apenas os exercícios corretos até a primeira solução
-incorreta da lista serão pontuados. Se um exercício anterior estiver incorreto,
-todos os exercícios, mesmo os corretos, serão desconsiderados.
-
-Além disso, se um participante resolver todos os exercícios de uma lista
-corretamente, ele receberá um bônus de 10 pontos.
-
-Cada participante tem o direito de submeter a mesma lista de exercícios até três
-vezes. É importante revisar e aprimorar as soluções antes de submetê-las para
-maximizar a pontuação.
-
-Para obter mais detalhes sobre as listas de exercícios, consulte a página
-[Listas de Exercícios](./lists.md).
-
-### Rushes
-
-Os Rushes são projetos desafiadores realizados em equipe durante os finais de
-semana. A pontuação máxima que pode ser obtida em um Rush é de 30 pontos. Cada
-participante da equipe receberá a mesma pontuação atribuída ao Rush.
-
-Para mais detalhes veja a página [Rushes](./rushes.md.
-
-### Avaliação entre Pares
-
-Além das pontuações obtidas diretamente pela resolução dos exercícios, os
-participantes que atuarem como avaliadores na avaliação entre pares receberão
-10 pontos adicionais por sua contribuição.
+Esses pontos serão contabilizados tanto para o Ranking Diário quanto para o
+Ranking Geral ([Ranking de Pontuações](./ranking.md)).
 
 ## Recompensas
 
-As pontuações são usadas para determinar as recompensas no Mini Bootcamp 42. No
-final do bootcamp, os três primeiros participantes no ranking de pontuações
+As pontuações serão utilizadas para determinar as recompensas no Mini Bootcamp 42.
+Ao final do bootcamp, os três primeiros participantes no ranking de pontuações
 receberão as seguintes recompensas:
 
-- 1º Lugar: 100 reais
-- 2º Lugar: 50 reais
-- 3º Lugar: 25 reais
+- 1º Lugar: R$ 100,00
+- 2º Lugar: R$ 50,00
+- 3º Lugar: R$ 25,00
+
+Fique atento às suas pontuações e participe ativamente para ter a chance de
+ganhar essas recompensas!
