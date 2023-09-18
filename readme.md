@@ -29,11 +29,11 @@ piscina da 42, na qual serão aplicados seus princípios e métodos.
 
 A cada dia, serão disponibilizadas [Listas de Exercícios](./docs/lists.md) para
 serem resolvidas em `C` ou `Shell`. As listas são organizadas por dificuldade,
-e cada solução contribuirá para o [Ranking de Pontuações](./docs/ranking.md).
-Todos os dias, o participante em primeiro lugar no ranking diário será recompensado.
+e a solução contribuirá para o [Ranking de Pontuações](./docs/ranking.md). Todos
+os dias, o participante em primeiro lugar no ranking diário será recompensado.
 
 Ao concluir uma lista, o participante deve submeter as soluções para a
-[Correção](./docs/evaluation.md), na qual um sistema automático fará a correção.
+[Correção](./docs/correction.md), na qual um sistema automático fará a correção.
 Além disso, outro participante disponível fará uma correção conjunta com aquele
 que concluiu a lista. Se o participante obtiver um desempenho adequado ou atingir
 o limite de tentativas, poderá prosseguir para a próxima lista.
@@ -75,7 +75,7 @@ Para saber mais detalhes sobre o funcionamento do Mini Bootcamp 42 consulte a
 documentação:
 
 - [Lista de Exercícios](./docs/lists.md)
-- [Correção](./docs/evaluation.md)
+- [Correção](./docs/correction.md)
 - [Rushes](./docs/rushes.md)
 - [Pontuação](./docs/points.md)
 - [Ranking de Pontuações](./docs/ranking.md)
